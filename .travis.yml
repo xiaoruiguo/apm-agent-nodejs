@@ -14,24 +14,24 @@ node_js:
   - '8'
 
 env:
-  - FOO=1
-  - FOO=2
-  - FOO=3
-  - FOO=4
-  - FOO=5
-  - FOO=6
-  - FOO=7
-  - FOO=9
-  - FOO=10
-  - FOO=11
-  - FOO=12
-  - FOO=13
-  - FOO=14
-  - FOO=15
-  - FOO=16
-  - FOO=17
-  - FOO=18
-  - FOO=19
-  - FOO=20
+  - FOO=1 npm_config_loglevel=verbose
+  - FOO=2 npm_config_loglevel=verbose
+  - FOO=3 npm_config_loglevel=verbose
+  - FOO=4 npm_config_loglevel=verbose
+  - FOO=5 npm_config_loglevel=verbose
+  - FOO=6 npm_config_loglevel=verbose
+  - FOO=7 npm_config_loglevel=verbose
+  - FOO=9 npm_config_loglevel=verbose
+  - FOO=10 npm_config_loglevel=verbose
+  - FOO=11 npm_config_loglevel=verbose
+  - FOO=12 npm_config_loglevel=verbose
+  - FOO=13 npm_config_loglevel=verbose
+  - FOO=14 npm_config_loglevel=verbose
+  - FOO=15 npm_config_loglevel=verbose
+  - FOO=16 npm_config_loglevel=verbose
+  - FOO=17 npm_config_loglevel=verbose
+  - FOO=18 npm_config_loglevel=verbose
+  - FOO=19 npm_config_loglevel=verbose
+  - FOO=20 npm_config_loglevel=verbose
 
 script: echo "hello world"
